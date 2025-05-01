@@ -1,5 +1,5 @@
 <h1 style='text-align:center'>👋 Hi, I’m Sourav N</h1>
-<I'm a passionate frontend developer .
+I'm a passionate frontend developer .
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" height="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" height="30px"/>
