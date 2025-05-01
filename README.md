@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sourav N
 - 👀 I’m interested in Web Development/Software Development...
 - 🌱 I’m currently learning  Javascript,React,C#,NET CORE...
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20" height="20"/>
   
 
 <!---
