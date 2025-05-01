@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sourav N
-- 👀 I’m interested in Web Development/Software Development...
+   I'm a passionate frontend developer .
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" height="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" height="30px"/>
