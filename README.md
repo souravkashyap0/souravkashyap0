@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sourav N
+- 👋 Hi, I’m Sourav N
    I'm a passionate frontend developer .
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" height="30px" />
