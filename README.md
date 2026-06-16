@@ -1,6 +1,6 @@
 👋 Hi, I’m Sourav N
 
-Frontend Developer focused on building fast, modern web applications with React, Next.js, and TypeScript.
+Frontend Developer focused on building fast, modern web applications with React,TypeScript.
 
 🚀 Building products
 🎨 Crafting clean user experiences
