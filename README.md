@@ -1,6 +1,19 @@
 👋 Hi, I’m Sourav N
 
-I'm a passionate frontend developer.
+Frontend Developer focused on building fast, modern web applications with React, Next.js, and TypeScript.
+
+🚀 Building products
+🎨 Crafting clean user experiences
+⚡ Obsessed with performance and developer experience
+
+## 🚀 About Me
+
+- 💻 Full-Stack Developer with a strong focus on modern web applications
+- ⚛️ Building responsive UIs using React, TypeScript
+- 🔷 Developing scalable backend services with C# and ASP.NET Core
+- 🏗️ Interested in clean architecture, system design, and API development
+- 🌱 Exploring AI-powered applications and cloud-native technologies
+- 🤝 Open to collaborations, open-source contributions, and exciting projects
 - Languages and tools
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" height="30px" />
