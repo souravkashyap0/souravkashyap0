@@ -8,7 +8,7 @@ Frontend Developer focused on building fast, modern web applications with React,
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer with a strong focus on modern web applications
+- 💻 An Enthusiatic  Engineer
 - ⚛️ Building responsive UIs using React, TypeScript
 - 🔷 Developing scalable backend services with C# and ASP.NET Core
 - 🏗️ Interested in clean architecture, system design, and API development
